@@ -8,4 +8,5 @@ int main()
     cout<<"Sum:"<<a<<"+"<<b<<"="<<a+b<<endl;
     cout<<"diff:"<<a<<"-"<<b<<"="<<a-b<<endl;
     cout<<"mul:"<<a<<"x"<<b<<"="<<a*b<<endl;
+    cout<<"mod:"<<a<<"%"<<b<<"="<<a%b<<endl;
 }
